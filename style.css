@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{padding: 0;
+  margin : 0;}
+#shipping-message {text-align: center;
+                   background-color: #f8f8f8;
+                   padding: 20px;
+                   color: #555;
+                   font-weight: bold;
+                   width: auto;}
+
+body {background-color:#BFA593;
+      font-family : UniqueRegular;}
+.nav {background-color: #232323; 
+      width: 100%;
+      height: 40px;
+      margin-top: -10px;}
+img.banner {width :100%;}
+
+img.dress {width: 70%;}
+
+p {font-family    : 'UniqueRegular'; 
+   font-weight    : normal; 
+   font-style     : normal;}
+
+h1,h3 {text-align : center;
+       color: beige;}
+
+.colum {width     : 33%;
+        display   : inline-block;
+        text-align: center;}
+
+button {background-color: beige;
+        padding         : 10px 20px;
+	    margin-top      : 10px;
+        border-radius   : 5px;
+        border-width    : 0px;}
+
+li{float:right;}
+
+ul li a{font-family: 'XoloniumRegular';
+	    font-weight: normal;
+	    font-style: normal;
+	    display: block;
+        width: 200px;
+        color: beige;
+        text-align: center;
+        padding: 10px;
+        text-decoration: none;}
+
+ul li a:hover{background-color:beige;
+             color: black;}
+
+ #footer {text-align: center;
+	      font-size: 14px;
+          color: #555;
+          padding: 10px; 
+          background-color: #232323; 
+          width: 100%;
+          height: 200px;}
+
+li {text-align: center;}
+
+
+
